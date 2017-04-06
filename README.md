@@ -1,2 +1,3 @@
 # hello-world
 learning git
+trying to learn git from scratch...
